@@ -22,7 +22,6 @@ Animação representando uma explosão de fogos, acionada pelo botão **A** (GPI
 - Linguagem: C
 - Ambiente: VS Code + Pico SDK + simulador Wokwi
 - Debounce por software implementado
-- Código modular com função `desenho_pio` para exibição de frames
 
 ---
 
