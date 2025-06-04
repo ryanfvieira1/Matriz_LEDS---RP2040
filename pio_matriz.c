@@ -8,7 +8,6 @@
 #include "pico/bootrom.h"
 
 //arquivo .pio
-#include "pio_matrix.pio.h"
 
 #define NUM_PIXELS 25
 #define OUT_PIN 7
